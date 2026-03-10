@@ -9,11 +9,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: TypeScript · JavaScript · PowerShell · Python · SQL
+  🦄 Linguagens: Python · TypeScript · JavaScript · C++
 </p>
 
 <p align="left">
-  💼 Ferramentas: React · Node.js · Express · Supabase · Docker · Proxmox · Active Directory · Windows Server · GLPI · Git · VS Code
+  💼 Ferramentas: React · Node.js · Arduino · Raspberry Pi · Supabase · Docker
 </p>
 
 <p align="left">
