@@ -1,8 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Olá! Sou <strong>João Gustavo Soares Bispo</strong>, desenvolvedor apaixonado por <strong>IA, Machine Learning e Robótica</strong>.<br>
+  Trabalho com <strong>TypeScript, React e Node.js</strong> no desenvolvimento web, e estou mergulhando em
+  <strong>Python, Arduino e Raspberry Pi</strong> para construir soluções inteligentes e automatizadas.<br>
+  Tenho background em infraestrutura de TI, o que me dá uma visão diferenciada entre hardware, software e sistemas.<br>
+  Atualmente focado em evoluir na interseção entre <strong>desenvolvimento, IA e robótica</strong>.
 </p>
 
 <p align="left">
